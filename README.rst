@@ -22,6 +22,6 @@ For more information about configuring Python modules for gmond, see the
 `official documentation <http://sourceforge.net/apps/trac/ganglia/wiki
 /ganglia_gmond_python_modules>`_.
 
-(c) 2012 by Ori Livneh <ori@wikimedia.org>
+Copyright (c) 2012 by Ori Livneh <ori@wikimedia.org>
 
 Licensed under the GNU General Public Licence, version 2.0 or later.
