@@ -23,4 +23,5 @@ For more information about configuring Python modules for gmond, see the
 /ganglia_gmond_python_modules>`_.
 
 (c) 2012 by Ori Livneh <ori@wikimedia.org>
-License: GNU General Public Licence 2.0 or later
+
+Licensed under the GNU General Public Licence, version 2.0 or later.
